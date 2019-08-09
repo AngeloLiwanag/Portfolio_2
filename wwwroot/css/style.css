@@ -1,0 +1,21 @@
+img{
+    height: 390px;
+    width: 260px;
+}
+
+.inline-block{
+    display: inline-block;
+}
+.img-cards{
+    margin-left: 500px;
+}
+.info{
+    display: inline-block;
+    vertical-align: top;
+}
+.div-info{
+    vertical-align: top;
+}
+.p-info{
+    width: 500px;
+}
